@@ -83,7 +83,8 @@ The analysis is based on data from the `marketing_campaign.xlsx` file. This data
   - **Consistently Low Complaint Rates**: Some quarters, such as Q3 2013 and Q4 2014, have consistently low complaint rates, suggesting that campaigns or service offerings during these times were more successful. Analyzing these successful periods may yield valuable lessons for improving performance in higher-complaint quarters.
   - **Actionable Measures**: Understanding the drivers behind complaints can inform better customer support strategies and product improvements. Additionally, consistent monitoring and response mechanisms may help mitigate complaint spikes.
 
-![image](https://github.com/user-attachments/assets/effc459f-9530-4d85-a4cd-9fe619383926)
+![image](https://github.com/user-attachments/assets/a6c3c53f-8238-48ee-8547-2f1b4f4955cb)
+
 
 ---
 
